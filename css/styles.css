@@ -1,0 +1,32 @@
+
+
+body {
+
+    height: 100vh;
+
+    padding: 0;
+    margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: lightgoldenrodyellow;
+
+}
+
+.padre {
+
+    display: flex;
+
+    width: 50em;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.foto {
+    height: 10em;
+}
